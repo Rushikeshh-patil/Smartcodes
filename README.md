@@ -1,0 +1,2 @@
+# Smartcodes
+Python - Django Project
